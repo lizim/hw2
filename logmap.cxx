@@ -22,7 +22,7 @@ int main(){
    	   }
    	   
    	   for(int i=0; i < Nskip; i++){
-		   out << "r = " << r << " \t x = " << x << endl;
+		   out << "r = " << r << " \t x = " << array[i] << endl;
 		   
 	   }
 	  
